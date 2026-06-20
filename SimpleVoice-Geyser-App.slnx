@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SimpleVoice-Geyser-App/simplevoice-geyser-app.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
